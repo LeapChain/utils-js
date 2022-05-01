@@ -31,13 +31,13 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "@thenewboston/utils",
-  "description": "Utility files for the thenewboston community",
+  "name": "@leapchain/utils",
+  "description": "Utility files for the LeapChain community",
   "keywords": [
-    "thenewboston"
+    "leapchain"
   ],
-  "homepage": "https://github.com/thenewboston-developers/utils-js",
-  "author": "thenewboston",
+  "homepage": "https://github.com/LeapChain/utils-js",
+  "author": "leapchain",
   "module": "dist/utils.esm.js",
   "size-limit": [
     {
